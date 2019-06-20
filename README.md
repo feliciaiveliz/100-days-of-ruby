@@ -1,0 +1,1 @@
+# This repository is of my own creation. I originally was logging into the forked repo of the original 100 days of code but decided that I wanted my own. I will still track progress everyday as expected. 
