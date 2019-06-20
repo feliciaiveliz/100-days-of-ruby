@@ -48,3 +48,12 @@
 **Time Spent**: 5 hours
 
 **Thoughts:** Tomorrow I will watch the videos on the calculator, finish up reviewing pseudo-code and flowcharts and just keep practicing exercises. The more I do them everyday, the more familiar I get. I've spent almost everyday now on Codewars and I've been getting more points. I'm noticing that I'm able to remember the simplest methods and that helps my confidence level. 
+
+
+### Day 8: June 20, 2019 - Thursday
+
+**Today's Progress**: Today I spent most of the day fighting with my wifi at home. Ended up waking to a coffee shop. Finishing calculator video and am reviewing bonus features.
+
+**Time Spent**: 2 hours, 45 minutes
+
+**Thoughts:** I ended creating my own repository for 100 days of code to keep it clean and so I could practice creating repos. I forked the original one, which is good practice, but I wanted my own repo. I hope that counts but it's all for me in the end anyway. 
