@@ -57,3 +57,5 @@
 **Time Spent**: 2 hours, 45 minutes
 
 **Thoughts:** I ended creating my own repository for 100 days of code to keep it clean and so I could practice creating repos. I forked the original one, which is good practice, but I wanted my own repo. I hope that counts but it's all for me in the end anyway. 
+
+**Notes**: I realized that I skipped a few days of reporting my progress. I did code everyday and I logged my time. It's hard for me to do these things, but that's exactly why I'm doing it. 
