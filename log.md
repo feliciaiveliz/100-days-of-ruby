@@ -59,3 +59,12 @@
 **Thoughts:** I ended creating my own repository for 100 days of code to keep it clean and so I could practice creating repos. I forked the original one, which is good practice, but I wanted my own repo. I hope that counts but it's all for me in the end anyway. 
 
 **Notes**: I realized that I skipped a few days of reporting my progress. I did code everyday and I logged my time. It's hard for me to do these things, but that's exactly why I'm doing it. 
+
+### Day 9: June 21, 2019 - Friday
+
+**Today's Progress**: I spent today finishing up my review of the calculator bonus features. Also did some review with Anki cards, specifically methods. Also read a few of the LS articles on variable scope, methods, and coding tips. Moved a few more files over to the new repo.
+
+**Time Spent**: 4 hours
+
+**Thoughts:** Need to put in more hours next week, goal is 30 hours. Review on the weekends, and research my pi project. I will do a little assignment on flow charts for the calculators to see if that's something that I would like to do to assist me in solving problems. 
+
