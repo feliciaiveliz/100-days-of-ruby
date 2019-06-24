@@ -75,3 +75,11 @@
 **Time Spent**: 1 hour
 
 **Thoughts:** Spent most of the day with a bad headache. Like throbbing pain. Still proud that I managed to read about mutability of objects and scope! I hope this will start to get easier over time because I'm worried and sometimes I can't sleep because I feel like it's just so hard for me to understand sometimes and I wont be competent enough to pass the test.
+
+### Day 10: June 22, 2019 - Saturday
+
+**Today's Progress**: Continuing to read on pass by value/reference and mutability of objects. Lot to digest.
+
+**Time Spent**: 1 hour
+
+**Thoughts:** I have to take this slowly to understand, I need to reread on multiple days to fully get it. 
