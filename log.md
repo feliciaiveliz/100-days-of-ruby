@@ -76,10 +76,18 @@
 
 **Thoughts:** Spent most of the day with a bad headache. Like throbbing pain. Still proud that I managed to read about mutability of objects and scope! I hope this will start to get easier over time because I'm worried and sometimes I can't sleep because I feel like it's just so hard for me to understand sometimes and I wont be competent enough to pass the test.
 
-### Day 10: June 22, 2019 - Saturday
+### Day 10: June 23, 2019 - Sunday
 
 **Today's Progress**: Continuing to read on pass by value/reference and mutability of objects. Lot to digest.
 
 **Time Spent**: 1 hour
 
 **Thoughts:** I have to take this slowly to understand, I need to reread on multiple days to fully get it. 
+
+### Day 11: June 24, 2019 - MOnday
+
+**Today's Progress**: Went through line by line the mortgage calculator. I had forgotten the meaning of name.strip.empty?, and (num.to_i.to_s == num) so with Ruby Docs and Stack Overflow, I have a much better understanding.
+
+**Time Spent**: 3 hours 45 minutes
+
+**Thoughts:** : Will do more tomorrow.
