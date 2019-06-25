@@ -84,7 +84,7 @@
 
 **Thoughts:** I have to take this slowly to understand, I need to reread on multiple days to fully get it. 
 
-### Day 11: June 24, 2019 - MOnday
+### Day 11: June 24, 2019 - Monday
 
 **Today's Progress**: Went through line by line the mortgage calculator. I had forgotten the meaning of name.strip.empty?, and (num.to_i.to_s == num) so with Ruby Docs and Stack Overflow, I have a much better understanding.
 
