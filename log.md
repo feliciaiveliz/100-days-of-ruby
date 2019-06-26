@@ -91,3 +91,13 @@
 **Time Spent**: 3 hours 45 minutes
 
 **Thoughts:** : Will do more tomorrow.
+
+### Day 12: June 25, 2019 - Tuesday
+
+**Today's Progress**: 
+ * Wrote markdown notes for 3/4 articles on scope, methods, and mutability.
+ * Moved over all files from intro_to_programming
+ 
+**Time Spent**: 5 hours
+
+**Thoughts:** Feeling more familiar with ruby mutability and variable scope. 
