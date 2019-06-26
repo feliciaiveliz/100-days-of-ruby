@@ -101,3 +101,14 @@
 **Time Spent**: 5 hours
 
 **Thoughts:** Feeling more familiar with ruby mutability and variable scope. 
+
+### Day 13: June 26, 2019 - Wednesday
+
+**Today's Progress**
+ * Completed basic rock, paper, scissors game
+ * Participated in LS's women's group chat
+ * Finished notes on the 3 part series on Ruby variables/mutability
+ 
+**Time Spent**: 2+ hours 
+
+**Thoughts:** I'm proud of myself for making it this far. I just need to keep going and not get so worried about failing all the damn time.
