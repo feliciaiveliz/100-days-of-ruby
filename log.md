@@ -112,3 +112,13 @@
 **Time Spent**: 2+ hours 
 
 **Thoughts:** I'm proud of myself for making it this far. I just need to keep going and not get so worried about failing all the damn time.
+
+### Day 14: June 27, 2019 - Thursday
+
+**Today's Progress**
+ * Finished notes on coding tips
+ * Started Rock, Paper, Scissors game
+ 
+**Time Spent**: 7 hours
+
+**Thoughts:** Today i felt frustrated.  I wrote out pseudo-code and notes for the game and I was confident going in, but then realized that I couldn't figure it out. I spent time looking at our peoples code, feeling strange because their code looked good and I couldn't figure out why mine didn't. I found that simple things took a lot of mental effort and I just don't know what to do. 
