@@ -122,3 +122,12 @@
 **Time Spent**: 7 hours
 
 **Thoughts:** Today i felt frustrated.  I wrote out pseudo-code and notes for the game and I was confident going in, but then realized that I couldn't figure it out. I spent time looking at our peoples code, feeling strange because their code looked good and I couldn't figure out why mine didn't. I found that simple things took a lot of mental effort and I just don't know what to do. 
+
+### Day 15: June 28, 2019 - Friday
+
+**Today's Progress**
+ * Still working on Rock, Paper, Scissors, Lizard, Spock game
+ 
+**Time Spent**: 6 hours 30 minutes
+
+**Thoughts:** Holy crap, this game is kicking my butt. I really hope this stuff will get easier. It's overload. I came this close to throwing up my hands, but I reached out for help. Hopefully tomorrow goes better. 
