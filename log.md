@@ -131,3 +131,14 @@
 **Time Spent**: 6 hours 30 minutes
 
 **Thoughts:** Holy crap, this game is kicking my butt. I really hope this stuff will get easier. It's overload. I came this close to throwing up my hands, but I reached out for help. Hopefully tomorrow goes better. 
+
+### Day 16: June 29, 2019 - Saturday
+
+**Today's Progress**
+ * Finished rock, paper, scissors game
+ * Submitted it for code review; awaiting feedback
+ 
+**Time Spent**: 1 hour 30 minutes
+
+**Thoughts:** I'm glad to be 'done' with it. I'm nervous about feedback because I feel like I could have done a better job. We'll see. 
+
