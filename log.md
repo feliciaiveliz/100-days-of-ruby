@@ -142,3 +142,12 @@
 
 **Thoughts:** I'm glad to be 'done' with it. I'm nervous about feedback because I feel like I could have done a better job. We'll see. 
 
+### Day 17: June 30, 2019 - Sunday
+
+**Today's Progress**
+ * Finished Quiz at the end of lesson 2
+ * Created new folder for lesson 3
+ 
+**Time Spent**: 2 hours 30 minutes
+
+**Thoughts:** Frustrated that I didn't get that good of a grade on the quiz but I hope to do better on the next. Now I know how tricky they can be.
