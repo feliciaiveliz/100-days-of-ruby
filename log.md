@@ -151,3 +151,12 @@
 **Time Spent**: 2 hours 30 minutes
 
 **Thoughts:** Frustrated that I didn't get that good of a grade on the quiz but I hope to do better on the next. Now I know how tricky they can be.
+
+### Day 18: July 1, 2019 - Monday
+
+**Today's Progress**
+ * Wrote notes on how to properly write out examples/test cases for problems as well as requirements.
+ 
+**Time Spent**: 1 hour
+
+**Thoughts:** Barely had any sleep last night so today was a nightmare trying to stay awake. Doesn't help that I'm trying to stop drinking coffee. 
