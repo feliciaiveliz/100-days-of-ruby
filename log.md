@@ -76,7 +76,7 @@
 
 **Thoughts:** Spent most of the day with a bad headache. Like throbbing pain. Still proud that I managed to read about mutability of objects and scope! I hope this will start to get easier over time because I'm worried and sometimes I can't sleep because I feel like it's just so hard for me to understand sometimes and I wont be competent enough to pass the test.
 
-### Day 10: June 23, 2019 - Sunday
+### Day 11: June 23, 2019 - Sunday
 
 **Today's Progress**: Continuing to read on pass by value/reference and mutability of objects. Lot to digest.
 
@@ -84,7 +84,7 @@
 
 **Thoughts:** I have to take this slowly to understand, I need to reread on multiple days to fully get it. 
 
-### Day 11: June 24, 2019 - Monday
+### Day 12: June 24, 2019 - Monday
 
 **Today's Progress**: Went through line by line the mortgage calculator. I had forgotten the meaning of name.strip.empty?, and (num.to_i.to_s == num) so with Ruby Docs and Stack Overflow, I have a much better understanding.
 
@@ -92,7 +92,7 @@
 
 **Thoughts:** : Will do more tomorrow.
 
-### Day 12: June 25, 2019 - Tuesday
+### Day 13: June 25, 2019 - Tuesday
 
 **Today's Progress**: 
  * Wrote markdown notes for 3/4 articles on scope, methods, and mutability.
@@ -102,7 +102,7 @@
 
 **Thoughts:** Feeling more familiar with ruby mutability and variable scope. 
 
-### Day 13: June 26, 2019 - Wednesday
+### Day 14: June 26, 2019 - Wednesday
 
 **Today's Progress**
  * Completed basic rock, paper, scissors game
@@ -113,7 +113,7 @@
 
 **Thoughts:** I'm proud of myself for making it this far. I just need to keep going and not get so worried about failing all the damn time.
 
-### Day 14: June 27, 2019 - Thursday
+### Day 15: June 27, 2019 - Thursday
 
 **Today's Progress**
  * Finished notes on coding tips
@@ -123,7 +123,7 @@
 
 **Thoughts:** Today i felt frustrated.  I wrote out pseudo-code and notes for the game and I was confident going in, but then realized that I couldn't figure it out. I spent time looking at our peoples code, feeling strange because their code looked good and I couldn't figure out why mine didn't. I found that simple things took a lot of mental effort and I just don't know what to do. 
 
-### Day 15: June 28, 2019 - Friday
+### Day 16: June 28, 2019 - Friday
 
 **Today's Progress**
  * Still working on Rock, Paper, Scissors, Lizard, Spock game
@@ -132,7 +132,7 @@
 
 **Thoughts:** Holy crap, this game is kicking my butt. I really hope this stuff will get easier. It's overload. I came this close to throwing up my hands, but I reached out for help. Hopefully tomorrow goes better. 
 
-### Day 16: June 29, 2019 - Saturday
+### Day 17: June 29, 2019 - Saturday
 
 **Today's Progress**
  * Finished rock, paper, scissors game
@@ -142,7 +142,7 @@
 
 **Thoughts:** I'm glad to be 'done' with it. I'm nervous about feedback because I feel like I could have done a better job. We'll see. 
 
-### Day 17: June 30, 2019 - Sunday
+### Day 18: June 30, 2019 - Sunday
 
 **Today's Progress**
  * Finished Quiz at the end of lesson 2
@@ -152,7 +152,7 @@
 
 **Thoughts:** Frustrated that I didn't get that good of a grade on the quiz but I hope to do better on the next. Now I know how tricky they can be.
 
-### Day 18: July 1, 2019 - Monday
+### Day 19: July 1, 2019 - Monday
 
 **Today's Progress**
  * Wrote notes on how to properly write out examples/test cases for problems as well as requirements.
@@ -160,3 +160,14 @@
 **Time Spent**: 1 hour
 
 **Thoughts:** Barely had any sleep last night so today was a nightmare trying to stay awake. Doesn't help that I'm trying to stop drinking coffee. 
+
+### Day 20: July 2, 2019 - Tuesday
+
+**Today's Progress**
+ * Solved a bunch of problems on CodeWars 
+ * Watched Launch School's problem solving videos
+ * Posted on website for first time in a while
+ 
+**Time Spent**: 4 hours 30 minutes
+
+**Thoughts:** I need to learn how to manage my time better. 
