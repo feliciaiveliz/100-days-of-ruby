@@ -171,3 +171,23 @@
 **Time Spent**: 4 hours 30 minutes
 
 **Thoughts:** I need to learn how to manage my time better. 
+
+### Day 21: July 3, 2019 - Wednesday
+
+**Today's Progress**
+ * Finished both problem solving videos and took notes for both
+ * Caught up with Chris Lee, and spoke about my experience so far
+ * Finished the 'Documentation Again' section of the 'Small Programs' exercises
+ 
+**Time Spent**: 7 hours 15 minutes 
+
+**Thoughts:** I freaking love coding.
+
+### Day 22: July 4, 2019 - Thursday
+
+**Today's Progress**
+ * Solved a couple problems for Launch School 
+
+**Time Spent**: 1 hour
+
+**Thoughts:** Spent most of the day relaxing; husband had the day off of work so it was quality time spent.
