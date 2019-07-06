@@ -191,3 +191,13 @@
 **Time Spent**: 1 hour
 
 **Thoughts:** Spent most of the day relaxing; husband had the day off of work so it was quality time spent.
+
+### Day 23: July 5, 2019 - Friday
+
+**Today's Progress**
+ * Redid array and hashes Ruby Basics problems
+ * Solved a few Easy 1 problems
+
+**Time Spent**: 3 hours
+
+**Thoughts:* Pushed through absolute exhaustion today. Tried my best today, and will try my best tomorrow. I made a new achievement on Word Press today, 10 posts! Yay!
