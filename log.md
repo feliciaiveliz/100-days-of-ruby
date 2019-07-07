@@ -213,7 +213,7 @@
 
 **Thoughts:** I really really hope this gets easier. This is easily the most mentally challenging thing I've ever done.
 
-**Goals for tomorrow:**
+**Goals for Tomorrow:**
  * Adding this section to have a clear plan for the next day*
  * Organize this log, and create short and long term goals
  * Look at 'How Many?' again to understand it. 
