@@ -201,3 +201,21 @@
 **Time Spent**: 3 hours
 
 **Thoughts:* Pushed through absolute exhaustion today. Tried my best today, and will try my best tomorrow. I made a new achievement on Word Press today, 10 posts! Yay!
+
+### Day 24: July 6, 2019 - Saturday
+
+**Today's Progress**
+ * I didn't actually get a correct solution to a problem
+ * but, I did manage to read through various solutions to try to understand it
+ * updated all files and renamed them for clarity
+ * 
+**Time Spent**: 2 hours 30 minutes
+
+**Thoughts:* I really really hope this gets easier. This is easily the most mentally challenging thing I've ever done.
+
+**Goals for tomorrow:**
+ * Adding this section to have a clear plan for the next day*
+ * Organize this log, and create short and long term goals
+ * Look at 'How Many?' again to understand it. 
+ * Get to a working solution, and come back to it later to redo from memory
+ * Try to solve either one other easy 1 problem, or move to lesson 3 problems
