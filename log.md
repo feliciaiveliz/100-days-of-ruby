@@ -211,7 +211,7 @@
  * 
 **Time Spent**: 2 hours 30 minutes
 
-**Thoughts:* I really really hope this gets easier. This is easily the most mentally challenging thing I've ever done.
+**Thoughts:** I really really hope this gets easier. This is easily the most mentally challenging thing I've ever done.
 
 **Goals for tomorrow:**
  * Adding this section to have a clear plan for the next day*
