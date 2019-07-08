@@ -234,3 +234,16 @@
  * Do everything I didn't do today
  * Write in planner my plans and goals for the week
  * Crochet on off time
+
+### Day 26: July 8, 2019 - Monday
+
+**Today's Progress**
+ * Practiced ruby basics using Codecademy 
+ 
+**Time Spent**: 3 hours
+
+**Thoughts:** Cloud9 decided to crash so I couldn't work on my Launch School stuff. I am really upset by that and no matter what I did, it never came back up. I hope tomorrow is better.
+
+**Goals for Tomorrow:**
+ * Do everything I couldn't do today
+ 
