@@ -208,7 +208,7 @@
  * I didn't actually get a correct solution to a problem
  * but, I did manage to read through various solutions to try to understand it
  * updated all files and renamed them for clarity
- * 
+ 
 **Time Spent**: 2 hours 30 minutes
 
 **Thoughts:** I really really hope this gets easier. This is easily the most mentally challenging thing I've ever done.
@@ -219,3 +219,18 @@
  * Look at 'How Many?' again to understand it. 
  * Get to a working solution, and come back to it later to redo from memory
  * Try to solve either one other easy 1 problem, or move to lesson 3 problems
+
+### Day 25: July 7, 2019 - Sunday
+
+**Today's Progress**
+ * Practiced touch typing 
+ * Reviewed ruby concepts
+ 
+**Time Spent**: 1 hour 23 minutes
+
+**Thoughts:** Today was an exhausting day, mostly because I haven't been getting sleep.
+
+**Goals for Tomorrow:**
+ * Do everything I didn't do today
+ * Write in planner my plans and goals for the week
+ * Crochet on off time
