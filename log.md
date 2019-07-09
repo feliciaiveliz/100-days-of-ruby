@@ -246,4 +246,17 @@
 
 **Goals for Tomorrow:**
  * Do everything I couldn't do today
+
+### Day 27: July 9, 2019 - Tuesday
+
+**Today's Progress**
+ * I actually spent about 3 hours trying to figure out why Cloud9 wasn't working
+ * Solved two problems using pedac and pushed code to Github
+ 
+**Time Spent**: 2 hours 30 minutes
+
+**Thoughts:** Successfully got Cloud9 working again, and all I had to do was pay. Yay spending more money. I'm happy that I was able to solve at least two problems. These problems are proving difficult for me so I feel good by that.
+
+**Goals for Tomorrow:**
+ * Do everything I couldn't do today and the day that...and the day before that
  
