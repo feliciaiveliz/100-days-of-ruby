@@ -260,3 +260,18 @@
 **Goals for Tomorrow:**
  * Do everything I couldn't do today and the day that...and the day before that
  
+
+### Day 28: July 10, 2019 - Wednesday
+
+**Today's Progress**
+ * Finished the Easy 1 section of problems
+ * Did some more review on Codecademy
+ 
+**Time Spent**: 5 1/2 hours +
+
+**Thoughts:** I'm proud of myself for finishing a set. It's not quite finished, as I would like to review them all, but finished in a sense that I have a working solution that makes sense to me. I'll refactor later.
+
+**Goals for Tomorrow:**
+ * Write in planner tomorrow
+ * find time to crochet, or save that for the weekends
+ * start python tutorials
