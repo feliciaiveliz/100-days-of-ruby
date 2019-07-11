@@ -275,3 +275,19 @@
  * Write in planner tomorrow
  * find time to crochet, or save that for the weekends
  * start python tutorials
+
+### Day 29: July 11, 2019 - Thursday
+
+**Today's Progress**
+ * Finished the Easy 1 and Easy 2 section of problems in Lesson 3
+ * Started on Medium 1 problems in Lesson 3
+ * 
+**Time Spent**: 4 hours
+
+**Thoughts:** Hard work today, hard work tomorrow. I'm getting the hang of it; starting to remember methods faster and am able to type out solutions faster too.
+
+**Goals for Tomorrow:**
+ * Finish Medium 1 set
+ * Finish Medium 2 set
+ * Go over pull requests
+ * Figure out youtube videos
