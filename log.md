@@ -291,3 +291,18 @@
  * Finish Medium 2 set
  * Go over pull requests
  * Figure out youtube videos
+
+ ### Day 30: July 12, 2019 - Friday
+
+**Today's Progress**
+ * Finished the Medium 1 section of problems in Lesson 3
+ * Started on Medium 2 problems in Lesson 3
+ 
+**Time Spent**: 4 hours
+
+**Thoughts:** Will continue to work on these problems sets to gain mastery.
+
+**Goals for Tomorrow:**
+ * Finish Medium 2 set
+ * Go over pull requests
+ * Figure out youtube videos
