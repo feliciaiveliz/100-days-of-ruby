@@ -306,3 +306,17 @@
  * Finish Medium 2 set
  * Go over pull requests
  * Figure out youtube videos
+
+ ### Day 31: July 13, 2019 - Saturday
+
+**Today's Progress**
+ * Still working on setting up
+ 
+**Time Spent**: 4 hours
+
+**Thoughts:** Will continue to work on these problems sets to gain mastery.
+
+**Goals for Tomorrow:**
+ * Finish Medium 2 and 3 set
+ * Go over pull requests
+ * Figure out youtube videos
