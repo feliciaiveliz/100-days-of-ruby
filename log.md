@@ -321,4 +321,19 @@
  * Go over pull requests
  * Figure out youtube videos
 
- *** this is a test
+ ### Day 32: July 14, 2019 - Sunday
+
+**Today's Progress**
+ * Got everything set up- files, environment
+ * Wrote down outline for code videos
+ 
+**Time Spent**: 1 hour
+
+**Thoughts:** Will continue to work on these problems sets to gain mastery.
+
+**Goals for Tomorrow:**
+ * Finish Medium 2 and 3 set
+ * Go over pull requests
+ * Review Git/Github books that are in links in slack
+ * Create videos and learn to edit
+ 
