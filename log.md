@@ -352,3 +352,19 @@
  * Go over pull requests
  * Review Git/Github books that are in links in slack
  * Brainstorm ideas for new videos
+
+### Day 34: July 16, 2019 - Tuesday
+
+**Today's Progress**
+ * Went through all Medium 2 exercises
+ * Wrote markdown notes on Variable Mutability article
+ 
+**Time Spent**: 5 hours, 43 minutes
+
+**Thoughts:** I'm not sure if im really getting this stuff, so hopefully having study sessions will expose my gaps in understanding
+
+**Goals for Tomorrow:**
+ * Finish Hard 1 problems
+ * Go over pull requests
+ * Review Git/Github books that are in links in slack
+ * Write markdown notes for other two variable articles
