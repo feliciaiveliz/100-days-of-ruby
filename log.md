@@ -337,3 +337,18 @@
  * Review Git/Github books that are in links in slack
  * Create videos and learn to edit
  
+ ### Day 33: July 15, 2019 - Monday
+
+**Today's Progress**
+ * Finish first Youtube video!
+ * Made progress in Medium 2 exercises
+ 
+**Time Spent**: 4 hours
+
+**Thoughts:** Will continue to work on these problems sets to gain mastery.
+
+**Goals for Tomorrow:**
+ * Finish Medium 2 and 3 set
+ * Go over pull requests
+ * Review Git/Github books that are in links in slack
+ * Brainstorm ideas for new videos
