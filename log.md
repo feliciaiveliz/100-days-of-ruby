@@ -368,3 +368,5 @@
  * Go over pull requests
  * Review Git/Github books that are in links in slack
  * Write markdown notes for other two variable articles
+
+ Day 46 - I will update this more tomorrow, but I've been mostly updating on my blog.
