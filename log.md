@@ -370,3 +370,20 @@
  * Write markdown notes for other two variable articles
 
  Day 46 - I will update this more tomorrow, but I've been mostly updating on my blog.
+
+ ### Day 62: August 21, 2019 - Wednesday
+
+ **Today's Progress**
+ * Reviewed Nested Data Structures
+ * Reviewed Working with Blocks
+ * Reviewed Sorting
+ 
+**Time Spent**: 2 hours 45 minutes~ but will keep going
+
+**Thoughts:** I feel like I know the solutions, but we're getting to the stage in the lessons of having to explain everything in precision language so that's proving to be more difficult than actually arriving at the solution.
+
+**Goals for Tomorrow:**
+ * Finish Working with Blocks Problems
+ * Review again and this time take notes on nested data structures
+ * Restart study cards
+ 
