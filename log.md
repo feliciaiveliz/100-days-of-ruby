@@ -387,3 +387,21 @@
  * Review again and this time take notes on nested data structures
  * Restart study cards
  
+
+ ### Day 67: August 25, 2019 - Wednesday
+
+ **Today's Progress**
+ * Working on practice problems
+ * Started over to review all the problems that I struggled with
+ * Review Anki cards for 10 minutes
+ 
+**Time Spent**: 45 minutes + (I'm still studying)
+
+**Thoughts:** I really thought the sorting problems were going to be easier but they are proving to be more difficult than I thought. 
+
+**Goals for Tomorrow:**
+ * Finish or review all practice problems
+ * Review nested data structures, working with blocks and sorting notes
+ * Review study cards
+ * prepare for quiz
+ 
