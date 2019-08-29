@@ -388,14 +388,14 @@
  * Restart study cards
  
 
- ### Day 67: August 25, 2019 - Wednesday
+ ### Day 67: August 25, 2019 - Sunday
 
  **Today's Progress**
  * Working on practice problems
  * Started over to review all the problems that I struggled with
  * Review Anki cards for 10 minutes
  
-**Time Spent**: 45 minutes + (I'm still studying)
+**Time Spent**: 1 hour
 
 **Thoughts:** I really thought the sorting problems were going to be easier but they are proving to be more difficult than I thought. 
 
@@ -405,3 +405,19 @@
  * Review study cards
  * prepare for quiz
  
+### Day 70: August 29, 2019 - Thursday
+
+**Today's Progress**
+ * Review practice problems for last time
+ * Start Quiz for lesson 5
+ * Review Anki cards for 10 minutes
+ 
+**Time Spent**: 
+
+**Thoughts:** I am going to ace this quiz. At least with an 80% or higher.  
+
+**Goals for Tomorrow:**
+ * Finish Easy 5
+ * Start Easy 6
+ * Review Anki
+ * Take a look at Lesson 6
