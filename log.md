@@ -412,7 +412,7 @@
  * Start Quiz for lesson 5
  * Review Anki cards for 10 minutes
  
-**Time Spent**: 
+**Time Spent**: 6 hours
 
 **Thoughts:** I am going to ace this quiz. At least with an 80% or higher.  
 
@@ -421,3 +421,19 @@
  * Start Easy 6
  * Review Anki
  * Take a look at Lesson 6
+
+ ### Day 71: August 30, 2019 - Friday
+
+**Today's Progress**
+ * Finish Easy 5 problems
+ * Start Easy 6
+ * Review Anki cards for string
+ 
+**Time Spent**: 
+
+**Thoughts:** I am going to finish Easy 5 and Easy 6 today! These are difficult problems but I will learn them eventually. 
+
+**Goals for Tomorrow:**
+ * Start Anki cards for arrays
+ * Review either lesson 4 or 5 and start outlining working for 101 up to lesson 6
+ * Draw up September pages in bullet journal
