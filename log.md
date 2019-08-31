@@ -429,7 +429,7 @@
  * Start Easy 6
  * Review Anki cards for string
  
-**Time Spent**: 
+**Time Spent**: 5 hours
 
 **Thoughts:** I am going to finish Easy 5 and Easy 6 today! These are difficult problems but I will learn them eventually. 
 
@@ -437,3 +437,17 @@
  * Start Anki cards for arrays
  * Review either lesson 4 or 5 and start outlining working for 101 up to lesson 6
  * Draw up September pages in bullet journal
+
+  ### Day 72: August 31, 2019 - Saturday
+
+**Today's Progress**
+ * Finish 2 Easy 6 problems
+ * Draw September bullet journal pages
+ * Start Anki cards for German
+ 
+**Time Spent**: 
+
+**Thoughts:** I am going to finish Easy 5 and Easy 6 today! These are difficult problems but I will learn them eventually. 
+
+**Goals for Tomorrow:**
+ * Relax
