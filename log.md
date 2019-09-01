@@ -438,16 +438,30 @@
  * Review either lesson 4 or 5 and start outlining working for 101 up to lesson 6
  * Draw up September pages in bullet journal
 
-  ### Day 72: August 31, 2019 - Saturday
+### Day 72: August 31, 2019 - Saturday
 
 **Today's Progress**
  * Finish 2 Easy 6 problems
  * Draw September bullet journal pages
  * Start Anki cards for German
  
-**Time Spent**: 
+**Time Spent**: 3 hours 26 minutes
 
 **Thoughts:** I am going to finish Easy 5 and Easy 6 today! These are difficult problems but I will learn them eventually. 
+
+**Goals for Tomorrow:**
+ * Relax
+
+### Day 73: September 1, 2019 - Sunday
+
+**Today's Progress**
+ * Finish Easy 6 problems, 3 and 4
+ * Update all logs 
+ * Study Anki cards for String
+ 
+**Time Spent**: 
+
+**Thoughts:** I will do a couple problems today and then relax the next two days. I need rest. 
 
 **Goals for Tomorrow:**
  * Relax
