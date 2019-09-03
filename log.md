@@ -479,3 +479,18 @@
  * Finish all Easy 6 problems
  * Study String Anki cards
  * Start Easy 7 problems
+
+ ### Day 75: September 3, 2019 - Tuesday
+
+**Today's Progress**
+ * Finish Easy 6 problems
+ * Start Easy 7 problems
+ * Review Anki cards for String
+ 
+**Time Spent**: 
+
+**Thoughts:** IM SO SLEEPY.
+
+**Goals for Tomorrow:**
+ * Get as far as possible with Easy 7 problems
+ * Start Array Anki cards
