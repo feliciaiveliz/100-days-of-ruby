@@ -487,7 +487,7 @@
  * Start Easy 7 problems
  * Review Anki cards for String
  
-**Time Spent**: 
+**Time Spent**: 5 hours 25 minutes
 
 **Thoughts:** IM SO SLEEPY.
 
