@@ -465,3 +465,17 @@
 
 **Goals for Tomorrow:**
  * Relax
+
+### Day 74: September 2, 2019 - Monday
+
+**Today's Progress**
+ * Attempted Easy 6 Problem
+ 
+**Time Spent**: 45 minutes
+
+**Thoughts:** I'm exhausted today, but still tried to study.
+
+**Goals for Tomorrow:**
+ * Finish all Easy 6 problems
+ * Study String Anki cards
+ * Start Easy 7 problems
