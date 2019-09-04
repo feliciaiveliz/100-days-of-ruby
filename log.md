@@ -502,7 +502,7 @@
  * Review Anki String cards
  * Organize Blog and #100daysofcode # days
  
-**Time Spent**:
+**Time Spent**: 5 hours
 
 **Thoughts:** There are some days where I don't feel like studying. I had really short studying days on Sunday and Monday so I can't really take another one this week :/
 
