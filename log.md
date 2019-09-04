@@ -494,3 +494,19 @@
 **Goals for Tomorrow:**
  * Get as far as possible with Easy 7 problems
  * Start Array Anki cards
+
+### Day 76: September 4, 2019 - Wednesday
+
+**Today's Progress**
+ * Finish Easy 7 problems
+ * Review Anki String cards
+ * Organize Blog and #100daysofcode # days
+ 
+**Time Spent**:
+
+**Thoughts:** There are some days where I don't feel like studying. I had really short studying days on Sunday and Monday so I can't really take another one this week :/
+
+**Goals for Tomorrow:**
+ * If I don't finish Easy 7 problems, finish them 
+ * Start Easy 8 problems
+ * Start Array Anki cards
