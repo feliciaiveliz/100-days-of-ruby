@@ -502,7 +502,7 @@
  * Review Anki String cards
  * Organize Blog and #100daysofcode # days
  
-**Time Spent**: 5 hours
+**Time Spent**: 5 hours 17 minutes
 
 **Thoughts:** There are some days where I don't feel like studying. I had really short studying days on Sunday and Monday so I can't really take another one this week :/
 
@@ -510,3 +510,19 @@
  * If I don't finish Easy 7 problems, finish them 
  * Start Easy 8 problems
  * Start Array Anki cards
+
+### Day 77: September 5, 2019 - Thursday
+
+**Today's Progress**
+ * Finish Array Anki cards
+ * Review Anki String cards
+ * Organize Blog and #100daysofcode # days
+ 
+**Time Spent**: 5 hours
+
+**Thoughts:** I want to increase my productivity and increase the number of hours that I study. I know it doesn't work for all people, but I don't see why it can't work for me. The more I see the language, the more I remember. Studying at least an hour every single day, and getting 6 hours all other days seems good. 
+
+**Goals for Tomorrow:**
+ * Finish Easy 7 problems
+ * Start Easy 8 problems
+ * Start Array/String Anki cards
