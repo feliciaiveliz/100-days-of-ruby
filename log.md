@@ -388,9 +388,9 @@
  * Restart study cards
  
 
- ### Day 67: August 25, 2019 - Sunday
+ ### Day 66: August 25, 2019 - Sunday
 
- **Today's Progress**
+ **Today's Progress**              
  * Working on practice problems
  * Started over to review all the problems that I struggled with
  * Review Anki cards for 10 minutes
@@ -518,11 +518,11 @@
  * Review Anki String cards
  * Organize Blog and #100daysofcode # days
  
-**Time Spent**: 5 hours
+**Time Spent**: 4 hours 30 minutes
 
 **Thoughts:** I want to increase my productivity and increase the number of hours that I study. I know it doesn't work for all people, but I don't see why it can't work for me. The more I see the language, the more I remember. Studying at least an hour every single day, and getting 6 hours all other days seems good. 
 
 **Goals for Tomorrow:**
  * Finish Easy 7 problems
  * Start Easy 8 problems
- * Start Array/String Anki cards
+ * Review Array/String Anki cards
