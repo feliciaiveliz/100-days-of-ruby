@@ -526,3 +526,19 @@
  * Finish Easy 7 problems
  * Start Easy 8 problems
  * Review Array/String Anki cards
+
+ 
+### Day 78: September 6, 2019 - Friday
+
+**Today's Progress**
+ * Finish Array Anki cards
+ * Review Anki String cards
+ * Finish Easy 7
+ 
+**Time Spent**:
+
+**Thoughts:** Run the Jewels helps wakes a person up at 730am to study.
+
+**Goals for Tomorrow:**
+ * Review Anki
+ * Start Easy 8 problems
