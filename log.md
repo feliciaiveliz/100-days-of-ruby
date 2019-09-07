@@ -535,10 +535,23 @@
  * Review Anki String cards
  * Finish Easy 7
  
-**Time Spent**:
+**Time Spent**: 4 hours 30 minutes
 
 **Thoughts:** Run the Jewels helps wakes a person up at 730am to study.
 
 **Goals for Tomorrow:**
  * Review Anki
  * Start Easy 8 problems
+
+### Day 79: September 7, 2019 - Saturday
+
+**Today's Progress**
+ * Review Array/String Anki
+ 
+**Time Spent**:
+
+**Thoughts:** I'm so freaking sleepy and I can't think too cleary. I am trying my hardest to focus.
+
+**Goals for Tomorrow:**
+ * Review Anki
+ * Finish Easy 7 problems and start Easy 8
