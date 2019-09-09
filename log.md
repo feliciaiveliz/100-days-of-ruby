@@ -555,3 +555,17 @@
 **Goals for Tomorrow:**
  * Review Anki
  * Finish Easy 7 problems and start Easy 8
+
+### Day 81: September 9, 2019 - Monday
+
+**Today's Progress**
+ * Finished Easy 8 problems
+ * Review String Anki cards
+ 
+**Time Spent**: 5 hours
+
+**Thoughts:** The Easy 8 problems weren't too bad, but it's difficult for me to use previous methods and add on other methods after that. 
+
+**Goals for Tomorrow:**
+ * Review Anki for String
+ * Review Easy 8 problems and start Easy 9
