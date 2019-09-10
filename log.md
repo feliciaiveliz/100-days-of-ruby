@@ -562,10 +562,26 @@
  * Finished Easy 8 problems
  * Review String Anki cards
  
-**Time Spent**: 5 hours
+**Time Spent**: 6 hours
 
 **Thoughts:** The Easy 8 problems weren't too bad, but it's difficult for me to use previous methods and add on other methods after that. 
 
 **Goals for Tomorrow:**
  * Review Anki for String
  * Review Easy 8 problems and start Easy 9
+
+### Day 82: September 10, 2019 - Tuesday
+
+**Today's Progress**
+ * Review Easy problems
+ * Start 1 Easy 9 problem
+ * Review Array Anki
+ 
+**Time Spent**: 5 hours
+
+**Thoughts:** Some problems are getting easier for me, and I'm spending time breaking down the problems that don't make sense to me. 
+
+**Goals for Tomorrow:**
+ * Review Anki for String
+ * Review Easy 8 problems
+ * Continue Easy 9 problems
