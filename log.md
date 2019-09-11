@@ -585,3 +585,19 @@
  * Review Anki for String
  * Review Easy 8 problems
  * Continue Easy 9 problems
+
+### Day 83: September 11, 2019 - Wednesday
+
+**Today's Progress**
+ * Reread Intro to Programming Book
+ * Review Variable Scope Rules
+ * Review Array Anki
+ 
+**Time Spent**: 
+
+**Thoughts:** I guess I'm still having trouble with variable scope so I need to spend more time (ugh) reviewing it. I'm having a hard time with the exercises so it's time for a review. 
+
+**Goals for Tomorrow:**
+ * Review Anki for Array
+ * Review Easy 8 problems
+ * Continue Easy 9 problems
