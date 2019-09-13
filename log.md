@@ -602,12 +602,13 @@
  * Review Easy 8 problems
  * Continue Easy 9 problems
 
- ### Day 84: September 12, 2019 - Thursday
+### Day 84: September 12, 2019 - Thursday
 
 **Today's Progress**
  * Reread Intro to Programming Book
  * Reviewed Array Anki cards 
-**Time Spent**: 
+
+**Time Spent**: 3 hours 45 minutes
 
 **Thoughts:** I'm really not in the mood to study but I have to try. I'm just tired and just feel uninterested at times. I really do like what I'm doing, but I don't have the energy.
 
@@ -616,3 +617,18 @@
  * Review Anki for Array for 15 minutes, and String for 15 minutes
  * Continue with Debugging problems
  
+### Day 85: September 13, 2019 - Friday
+
+**Today's Progress**
+ * Finish reading Intro to Programming book
+ * Reviewed Array Anki cards 
+ * Finish 1 Debugging problem
+ 
+**Time Spent**: 
+
+**Thoughts:** I'm really not in the mood to study but I have to try. I'm just tired and just feel uninterested at times. I really do like what I'm doing, but I don't have the energy.
+
+**Goals for Tomorrow:**
+ * Continue reading the Intro to Programming book
+ * Review Anki for Array for 15 minutes, and String for 15 minutes
+ * Continue with Debugging problems
