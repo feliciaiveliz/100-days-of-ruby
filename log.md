@@ -624,9 +624,25 @@
  * Reviewed Array Anki cards 
  * Finish 1 Debugging problem
  
-**Time Spent**: 
+**Time Spent**: 2 hours 45 mimutes
 
 **Thoughts:** I'm really not in the mood to study but I have to try. I'm just tired and just feel uninterested at times. I really do like what I'm doing, but I don't have the energy.
+
+**Goals for Tomorrow:**
+ * Continue reading the Intro to Programming book
+ * Review Anki for Array for 15 minutes, and String for 15 minutes
+ * Continue with Debugging problems
+
+ ### Day 86: September 14, 2019 - Saturday
+
+**Today's Progress**
+ * Finish reading Intro to Programming book
+ * Reviewed Array Anki cards 
+ * Finish 1 Debugging problem
+ 
+**Time Spent**: 
+
+**Thoughts:** Spend some time with Vin and am a little slow to start studying. Just haven't been feeling well lately but am hoping to snap out of it soon. 
 
 **Goals for Tomorrow:**
  * Continue reading the Intro to Programming book
