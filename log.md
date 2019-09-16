@@ -645,6 +645,35 @@
 **Thoughts:** Spend some time with Vin and am a little slow to start studying. Just haven't been feeling well lately but am hoping to snap out of it soon. 
 
 **Goals for Tomorrow:**
+ * Work on Ruby basics exercises
+ * Review Anki for Array for 15 minutes, and String for 15 minutes
+ * Continue with Debugging problems
+
+### Day 87: September 15, 2019 - Sunday
+
+**Today's Progress**
+ * Almost finished Variable Scope problems
+ 
+**Time Spent**: 50 minutes
+
+**Thoughts:** Took a break, crocheted a hat and studied a little bit
+
+**Goals for Tomorrow:**
  * Continue reading the Intro to Programming book
  * Review Anki for Array for 15 minutes, and String for 15 minutes
+ * Continue with Debugging problems
+
+### Day 88: September 16, 2019 - Monday
+
+**Today's Progress**
+ * Finish Variable Scope, Loops 1 & 2, and User Input problems
+ * Study Anki cards for Array and String for 15 minutes
+ 
+**Time Spent**: 
+
+**Thoughts:** Need to push it this week for I will be out of town this weekend until next week
+
+**Goals for Tomorrow:**
+ * Continue with RUby Basics Exercises
+ * Review Anki for Array for 15 minutes, and String for 15 minutes until I've reviewed all of them
  * Continue with Debugging problems
