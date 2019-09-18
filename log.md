@@ -669,11 +669,26 @@
  * Finish Variable Scope, Loops 1 & 2, and User Input problems
  * Study Anki cards for Array and String for 15 minutes
  
-**Time Spent**: 
+**Time Spent**: 4 hours 21 minutes
 
 **Thoughts:** Need to push it this week for I will be out of town this weekend until next week
 
 **Goals for Tomorrow:**
  * Continue with RUby Basics Exercises
+ * Review Anki for Array for 15 minutes, and String for 15 minutes until I've reviewed all of them
+ * Continue with Debugging problems
+
+### Day 89: September 18, 2019 - Wednesday
+
+**Today's Progress**
+ * Finish all Ruby Basics problems
+ * Study Anki cards for Array and String for 15 minutes
+ 
+**Time Spent**: 
+
+**Thoughts:** Just gotta keep working
+
+**Goals for Tomorrow:**
+ * Attempt Small Problems again
  * Review Anki for Array for 15 minutes, and String for 15 minutes until I've reviewed all of them
  * Continue with Debugging problems
