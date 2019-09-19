@@ -684,7 +684,7 @@
  * Finish all Ruby Basics problems
  * Study Anki cards for Array and String for 15 minutes
  
-**Time Spent**: 
+**Time Spent**: 3 hours 40 minutes
 
 **Thoughts:** Just gotta keep working
 
@@ -692,3 +692,18 @@
  * Attempt Small Problems again
  * Review Anki for Array for 15 minutes, and String for 15 minutes until I've reviewed all of them
  * Continue with Debugging problems
+
+### Day 90: September 19, 2019 - Thursday
+
+**Today's Progress**
+ * Finish all Ruby Basics problems
+ * Study Anki cards for Array and String for 15 minutes
+ 
+**Time Spent**: 
+
+**Thoughts:** Aiming to start the assessment by next month or november the latest, but I feel that going through all the material is helping me
+
+**Goals for Tomorrow:**
+ * Attempt Small Problems again
+ * Review Anki for Array for 15 minutes, and String for 15 minutes until I've reviewed all of them
+ * Or start lesson 6
