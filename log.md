@@ -718,5 +718,22 @@
 
 **Thoughts:** Tomorrow is my birthday so I have to push it today as I will not be studying for the next two days, but spending time with my family.
 
-**Goals for Tomorrow:**
+**Goals for Tomorrow:**             92 - 22     93 - 23    94 - 24 95
  * Parrtttttyyhouseee 
+
+### Day 95: September 25, 2019 - Wednesday
+
+**Today's Progress**
+ * Finish Easy 9 problems
+ * Study Anki cards for Array and String for 15 minutes for each
+ * Finish debugging problems
+
+ 
+**Time Spent**: 
+
+**Thoughts:** Had a super awesome birthday with my family and those are the times that I wish could never end. I am back home however and need to focus. I plan to take the assessment in october or november. 
+
+**Goals for Tomorrow:**
+* Review Easy problems 5-9
+* Study Anki
+* Start Lesson 6
