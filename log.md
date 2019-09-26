@@ -729,7 +729,7 @@
  * Finish debugging problems
 
  
-**Time Spent**: 
+**Time Spent**: 5 hours
 
 **Thoughts:** Had a super awesome birthday with my family and those are the times that I wish could never end. I am back home however and need to focus. I plan to take the assessment in october or november. 
 
@@ -737,3 +737,21 @@
 * Review Easy problems 5-9
 * Study Anki
 * Start Lesson 6
+
+### Day 96: September 26, 2019 - Thursday
+
+**Today's Progress**
+ * Finish Medium 1 problems, if possible
+ * Study Anki cards for Array and String for 15 minutes for each
+ * Start Lesson 6
+ * Write blog post about weekend
+
+ 
+**Time Spent**: 
+
+**Thoughts:** I'm glad that I studied so much yesterday so I plan to keep the momentum going today. Will trying to get through the medium problems and also take a peek at Lesson 6.
+
+**Goals for Tomorrow:**
+* Review Easy problems, one or two sets between 5-9
+* Study Anki
+* Continue with Lesson 6
