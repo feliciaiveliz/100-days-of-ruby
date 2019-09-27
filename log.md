@@ -747,7 +747,7 @@
  * Write blog post about weekend
 
  
-**Time Spent**: 
+**Time Spent**: 4 hours
 
 **Thoughts:** I'm glad that I studied so much yesterday so I plan to keep the momentum going today. Will trying to get through the medium problems and also take a peek at Lesson 6.
 
@@ -755,3 +755,20 @@
 * Review Easy problems, one or two sets between 5-9
 * Study Anki
 * Continue with Lesson 6
+
+### Day 97: September 27, 2019 - Friday
+
+**Today's Progress**
+ * Get as far as possible in Lesson 6
+ * Study Anki cards for Array and String for 15 minutes for each
+ * Write blog post about weekend
+
+ 
+**Time Spent**: 
+
+**Thoughts:** Felt sick yesterday and I'm still feeling a little strange, but I will study nonetheless.
+
+**Goals for Tomorrow:**
+* Continue with Lesson 6
+* Study Anki
+* Attemp 1 Medium 1 problem
