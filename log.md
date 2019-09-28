@@ -764,9 +764,27 @@
  * Write blog post about weekend
 
  
-**Time Spent**: 
+**Time Spent**: 3 hours 41 minutes
 
 **Thoughts:** Felt sick yesterday and I'm still feeling a little strange, but I will study nonetheless.
+
+**Goals for Tomorrow:**
+* Continue with Lesson 6
+* Study Anki
+* Attemp 1 Medium 1 problem
+
+### Day 98: September 28, 2019 - Saturday
+
+**Today's Progress**
+ * Try to finish pry video w/ notes
+ * Study Anki cards for Array and String for 15 minutes for each
+ * Write blog post about weekend
+ * Look at TTT game and breakdown methods for understanding
+
+ 
+**Time Spent**: 
+
+**Thoughts:** Feeling lazy, but still trying to study 
 
 **Goals for Tomorrow:**
 * Continue with Lesson 6
