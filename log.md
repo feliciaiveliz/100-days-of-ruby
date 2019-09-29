@@ -790,3 +790,22 @@
 * Continue with Lesson 6
 * Study Anki
 * Attemp 1 Medium 1 problem
+
+### Day 99: September 29, 2019 - Sunday
+
+**Today's Progress**
+ * Try to finish pry video w/ notes
+ * Study Anki cards for Array and String for 15 minutes for each
+ * Write blog post about weekend
+ * Look at TTT game and breakdown methods for understanding
+
+ 
+**Time Spent**: 
+
+**Thoughts:** Had a really bad night and I'm not feeling too good, but I will try to study Anki Cards
+
+**Goals for Tomorrow:**
+* Continue with Lesson 6
+* Finish Pry video
+* Study Anki
+* Attemp 1 Medium 1 problem
