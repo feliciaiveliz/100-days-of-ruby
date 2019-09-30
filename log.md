@@ -800,12 +800,29 @@
  * Look at TTT game and breakdown methods for understanding
 
  
-**Time Spent**: 
+**Time Spent**: 42 minutes
 
 **Thoughts:** Had a really bad night and I'm not feeling too good, but I will try to study Anki Cards
 
 **Goals for Tomorrow:**
 * Continue with Lesson 6
-* Finish Pry video
+* Finish Pry video  
+* Study Anki
+* Attemp 1 Medium 1 problem
+
+### Day 100: September 30, 2019 - Monday
+
+**Today's Progress**
+ * Try to finish pry video w/ notes
+ * Study Anki cards for Array and String for 15 minutes for each
+ * Look at TTT game and breakdown methods for understanding
+
+**Time Spent**: 
+
+**Thoughts:** Going to finish pry video today, I'm tired of seeing it
+
+**Goals for Tomorrow:**
+* Continue with Lesson 6
+* Finish Pry video  
 * Study Anki
 * Attemp 1 Medium 1 problem
