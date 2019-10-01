@@ -817,6 +817,23 @@
  * Study Anki cards for Array and String for 15 minutes for each
  * Look at TTT game and breakdown methods for understanding
 
+**Time Spent**: 3 hours 36 minutes
+
+**Thoughts:** Going to finish pry video today, I'm tired of seeing it
+
+**Goals for Tomorrow:**
+* Continue with Lesson 6
+* Finish Pry video  
+* Study Anki
+* Attemp 1 Medium 1 problem
+
+### R2D1: October 1, 2019 - Tuesday
+
+**Today's Progress**
+ * Finish pry video w/ notes
+ * Study Anki cards for Array and String for 15 minutes
+ * Look at TTT game and breakdown methods for understanding
+
 **Time Spent**: 
 
 **Thoughts:** Going to finish pry video today, I'm tired of seeing it
