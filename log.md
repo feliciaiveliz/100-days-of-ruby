@@ -830,7 +830,7 @@
 ### R2D1: October 1, 2019 - Tuesday
 
 **Today's Progress**
- * Finish pry video w/ notes
+ * Finished pry video w/ notes
  * Study Anki cards for Array and String for 15 minutes
  * Look at TTT game and breakdown methods for understanding
 
@@ -841,5 +841,21 @@
 **Goals for Tomorrow:**
 * Continue with Lesson 6
 * Finish Pry video  
+* Study Anki
+* Attemp 1 Medium 1 problem
+
+### R2D2: October 2, 2019 - Wednesday
+
+**Today's Progress**
+ * Study Anki cards for Array and String for 15 minutes
+ * Look at TTT game and breakdown methods for understanding
+ * Attempt 1 Medium 1 problem
+
+**Time Spent**: 
+
+**Thoughts:** As always, trying to get as much done as I can. When it comes to the bigger games, it's always difficult for me to put it all together. How do people do it? How do they come up with the logic? Why is it sooo hard for me?!?!?
+
+**Goals for Tomorrow:**
+* Continue with Lesson 6
 * Study Anki
 * Attemp 1 Medium 1 problem
