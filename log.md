@@ -851,9 +851,24 @@
  * Look at TTT game and breakdown methods for understanding
  * Attempt 1 Medium 1 problem
 
-**Time Spent**: 
+**Time Spent**: 6 hours
 
 **Thoughts:** As always, trying to get as much done as I can. When it comes to the bigger games, it's always difficult for me to put it all together. How do people do it? How do they come up with the logic? Why is it sooo hard for me?!?!?
+
+**Goals for Tomorrow:**
+* Continue with Lesson 6
+* Study Anki
+* Attemp 1 Medium 1 problem
+
+### R2D3: October 3, 2019 - Thursday
+
+**Today's Progress**
+ * Study Anki cards for Array and String for 15 minutes
+ * Look at TTT game and breakdown methods for understanding
+
+**Time Spent**: 
+
+**Thoughts:** Just going to keep working on this game. 
 
 **Goals for Tomorrow:**
 * Continue with Lesson 6
