@@ -865,6 +865,7 @@
 **Today's Progress**
  * Study Anki cards for Array and String for 15 minutes
  * Look at TTT game and breakdown methods for understanding
+ * Continue with game
 
 **Time Spent**: 
 
