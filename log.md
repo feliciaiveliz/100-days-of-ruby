@@ -867,11 +867,27 @@
  * Look at TTT game and breakdown methods for understanding
  * Continue with game
 
-**Time Spent**: 
+**Time Spent**: 5 hours
 
 **Thoughts:** Just going to keep working on this game. 
 
 **Goals for Tomorrow:**
 * Continue with Lesson 6
+* Study Anki
+* Attemp 1 Medium 1 problem
+
+### R2D4: October 4, 2019 - Friday
+
+**Today's Progress**
+ * Study Anki cards for Array and String for 15 minutes
+ * Start 21 game
+ * Continue w/ codewars and leetcode
+
+**Time Spent**: 
+
+**Thoughts:** Just going to keep working on this game. 
+
+**Goals for Tomorrow:**
+* Continue with 21 game
 * Study Anki
 * Attemp 1 Medium 1 problem
