@@ -883,6 +883,22 @@
  * Start 21 game
  * Continue w/ codewars and leetcode
 
+**Time Spent**: 4 hours 13 minutes
+
+**Thoughts:** Just going to keep working on this game. 
+
+**Goals for Tomorrow:**
+* Continue with 21 game
+* Study Anki
+* Attemp 1 Medium 1 problem
+
+### R2D5: October 5, 2019 - Saturday
+
+**Today's Progress**
+ * Study Anki cards for Array and String for 15 minutes
+ * Revise ttt game
+ * Continue w/ codewars and leetcode
+
 **Time Spent**: 
 
 **Thoughts:** Just going to keep working on this game. 
