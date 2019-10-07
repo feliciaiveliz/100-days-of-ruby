@@ -907,3 +907,18 @@
 * Continue with 21 game
 * Study Anki
 * Attemp 1 Medium 1 problem
+
+### R2D7: October 7, 2019 - Monday
+
+**Today's Progress**
+ * Finished and submitted ttt game revisions
+ * Continue w/ codewars and leetcode
+
+**Time Spent**: 
+
+**Thoughts:** I think I did better on the second round of the game so now I must continue with 21
+
+**Goals for Tomorrow:**
+* Continue with 21 game
+* Study Anki
+* Attemp 1 Medium 1 problem
