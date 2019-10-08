@@ -914,11 +914,26 @@
  * Finished and submitted ttt game revisions
  * Continue w/ codewars and leetcode
 
-**Time Spent**: 
+**Time Spent**: 1 hour 53 minutes
 
 **Thoughts:** I think I did better on the second round of the game so now I must continue with 21
 
 **Goals for Tomorrow:**
 * Continue with 21 game
 * Study Anki
-* Attemp 1 Medium 1 problem
+* Attempt 1 Medium 1 problem
+
+### R2D8: October 8, 2019 - Tuesday
+
+**Today's Progress**
+ * Complete ttt game and submit for last time
+ * Continue w/ codewars and leetcode
+ * Start 21 game
+
+**Time Spent**: 
+
+**Thoughts:** I leave tomorrow to see family so I will try to push hard today with the game
+
+**Goals for Tomorrow:**
+*Continue with 21 game
+* Codewars
