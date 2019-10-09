@@ -937,3 +937,18 @@
 **Goals for Tomorrow:**
 *Continue with 21 game
 * Codewars
+
+### R2D9: October 9, 2019 - Wednesday
+
+**Today's Progress**
+ * Submitted last revisions of ttt game
+ * Continue w/ codewars and leetcode
+ * Continue with 21 game
+
+**Time Spent**: 
+
+**Thoughts:** I leave in few hours for Wichita Falls but I will study when I get over there.
+
+**Goals for Tomorrow:**
+*Continue with 21 game
+* Codewars
