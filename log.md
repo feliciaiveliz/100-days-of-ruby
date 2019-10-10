@@ -945,9 +945,24 @@
  * Continue w/ codewars and leetcode
  * Continue with 21 game
 
-**Time Spent**: 
+**Time Spent**: 1 hr 30 minutes
 
 **Thoughts:** I leave in few hours for Wichita Falls but I will study when I get over there.
+
+**Goals for Tomorrow:**
+*Continue with 21 game
+* Codewars
+
+### R2D10: October 10, 2019 - Thursday
+
+**Today's Progress**
+ * Complete 1 Medium 1 problem
+ * Continue w/ codewars and Hackerank
+ * Continue with 21 game
+
+**Time Spent**: 
+
+**Thoughts:** I am with family but I still intent to study. I'm really confused with this Medium problem so I'm going to have to ask someone for help. 
 
 **Goals for Tomorrow:**
 *Continue with 21 game
