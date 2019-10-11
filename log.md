@@ -960,9 +960,23 @@
  * Continue w/ codewars and Hackerank
  * Continue with 21 game
 
-**Time Spent**: 
+**Time Spent**: 3 hours
 
 **Thoughts:** I am with family but I still intent to study. I'm really confused with this Medium problem so I'm going to have to ask someone for help. 
+
+**Goals for Tomorrow:**
+*Continue with 21 game
+* Codewars
+
+### R2D11: October 11, 2019 - Friday
+
+**Today's Progress**
+ * Complete 1 Medium 1 problem
+ * Continue with 21 game
+
+**Time Spent**: 
+
+**Thoughts:** Kayla was hospitalized last night so I didn't sleep. It's okay, as long as she's okay. 
 
 **Goals for Tomorrow:**
 *Continue with 21 game
