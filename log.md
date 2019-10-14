@@ -981,3 +981,18 @@
 **Goals for Tomorrow:**
 *Continue with 21 game
 * Codewars
+
+### R2D12: October 14, 2019 - Monday
+
+**Today's Progress**
+ * Complete 1 Medium 1 problem
+ * Continue with 21 game
+ * Codewars
+
+**Time Spent**: 
+
+**Thoughts:** Have been really busy with kayla and family here and havent had a chance to study. Will try harder tomorrow
+
+**Goals for Tomorrow:**
+*Continue with 21 game
+* Codewars
