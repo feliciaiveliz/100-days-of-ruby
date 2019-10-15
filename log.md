@@ -989,9 +989,23 @@
  * Continue with 21 game
  * Codewars
 
-**Time Spent**: 
+**Time Spent**: 1 hour 30 minutes
 
 **Thoughts:** Have been really busy with kayla and family here and havent had a chance to study. Will try harder tomorrow
+
+**Goals for Tomorrow:**
+*Continue with 21 game
+* Codewars
+
+### R2D13: October 15, 2019 - Tuesday
+
+**Today's Progress**
+ * Complete 1 Medium 1 problem
+ * Codewars
+
+**Time Spent**: 
+
+**Thoughts:** I feel so tired to code but I will still try
 
 **Goals for Tomorrow:**
 *Continue with 21 game
