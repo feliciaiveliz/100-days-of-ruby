@@ -1003,10 +1003,24 @@
  * Complete 1 Medium 1 problem
  * Codewars
 
-**Time Spent**: 
+**Time Spent**: 53 minutes
 
 **Thoughts:** I feel so tired to code but I will still try
 
 **Goals for Tomorrow:**
-*Continue with 21 game
+* Continue with 21 game
+* Codewars
+
+### R2D14: October 16, 2019 - Wednesday
+
+**Today's Progress**
+ * Complete 1 Medium 1 problem
+ * Codewars (2 problems)
+
+**Time Spent**: 
+
+**Thoughts:** I have most of the day to myself to study
+
+**Goals for Tomorrow:**
+* Continue with 21 game
 * Codewars
