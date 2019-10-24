@@ -1024,3 +1024,16 @@
 **Goals for Tomorrow:**
 * Continue with 21 game
 * Codewars
+
+### R2D18: October 24, 2019 - Thursday
+
+**Today's Progress**
+ * Finish review of lesson 4
+
+**Time Spent**: 
+
+**Thoughts:** Even though I have my charger, i still should review all the lessons
+
+**Goals for Tomorrow:**
+* get through lesson 4/5
+
