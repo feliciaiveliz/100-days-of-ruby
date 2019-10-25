@@ -1030,10 +1030,24 @@
 **Today's Progress**
  * Finish review of lesson 4
 
-**Time Spent**: 
+**Time Spent**: 4 hours
 
 **Thoughts:** Even though I have my charger, i still should review all the lessons
 
 **Goals for Tomorrow:**
 * get through lesson 4/5
 
+### R2D19: October 25, 2019 - Friday
+
+**Today's Progress**
+ * Finish review of lesson 4
+ * Start 21 game
+ * Concurrently review Lesson 4/5
+
+**Time Spent**: 
+
+**Thoughts:** Just trying to get through as much as possible; would love to take the assessment next month 
+
+**Goals for Tomorrow:**
+* get through lesson 4/5
+* Continue working on 21, have it finished this weekend
