@@ -1044,10 +1044,25 @@
  * Start 21 game
  * Concurrently review Lesson 4/5
 
-**Time Spent**: 
+**Time Spent**: 4 hours
 
 **Thoughts:** Just trying to get through as much as possible; would love to take the assessment next month 
 
 **Goals for Tomorrow:**
 * get through lesson 4/5
 * Continue working on 21, have it finished this weekend
+
+### R2D20: October 26, 2019 - Saturday
+
+**Today's Progress**
+ * Finish 21 game
+ * If 21 isn't finished, finish tomorrow 
+ * Finish 1 recursion problem from Medium 1
+
+**Time Spent**: 
+
+**Thoughts:** Vin and I will be spending time grilling at a park and going shopping for project items. I will still be working on the 21 game so I can finish it all by Monday. Once that's done, I will finish the rest of 101 and then get on with the exercises. I plan to take the assessment before thanksgiving break. 
+
+**Goals for Tomorrow:**
+* finish 21 game
+* finish the second recursion problem
