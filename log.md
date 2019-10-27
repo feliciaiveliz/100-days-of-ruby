@@ -1066,3 +1066,17 @@
 **Goals for Tomorrow:**
 * finish 21 game
 * finish the second recursion problem
+
+### R2D21: October 27, 2019 - Sunday
+
+**Today's Progress**
+ * Finish 21 game
+ * If 21 isn't finished, finish tomorrow 
+ * Make sure game is finished tomorrow
+
+**Time Spent**: 
+
+**Thoughts:** I want this game finished so that I can finish the exercises and get on with the assessment
+
+**Goals for Tomorrow:**
+* finish 21 game
