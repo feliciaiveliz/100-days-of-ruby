@@ -1074,9 +1074,24 @@
  * If 21 isn't finished, finish tomorrow 
  * Make sure game is finished tomorrow
 
-**Time Spent**: 
+**Time Spent**: 1 hour 13 minutes
 
 **Thoughts:** I want this game finished so that I can finish the exercises and get on with the assessment
 
 **Goals for Tomorrow:**
 * finish 21 game
+
+### R2D22: October 28, 2019 - Monday
+
+**Today's Progress**
+ * Finish 21 game and submit by 6pm
+ * Start Medium 1 problems: 8, 9, 10
+ * Codewars if on break
+
+**Time Spent**: 
+
+**Thoughts:** I want this game finished so that I can finish the exercises and get on with the assessment
+
+**Goals for Tomorrow:**
+* Continue working on Medium 1/2 problems
+* Schedule study session with 101 and Beginner group
