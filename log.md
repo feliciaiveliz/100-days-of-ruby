@@ -1088,10 +1088,25 @@
  * Start Medium 1 problems: 8, 9, 10
  * Codewars if on break
 
-**Time Spent**: 
+**Time Spent**: 5 hours
 
 **Thoughts:** I want this game finished so that I can finish the exercises and get on with the assessment
 
 **Goals for Tomorrow:**
 * Continue working on Medium 1/2 problems
+* Schedule study session with 101 and Beginner group
+
+### R2D24: October 30, 2019 - Wednesday
+
+**Today's Progress**
+ * Finish 21 game and submit by 6pm
+ * Finish 1 Medium 2
+ * Continue with Medium 2 until finished
+
+**Time Spent**: 
+
+**Thoughts:** My head is spinning with all of this code
+
+**Goals for Tomorrow:**
+* Continue working on Medium 2 problems
 * Schedule study session with 101 and Beginner group
