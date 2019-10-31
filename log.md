@@ -1103,10 +1103,25 @@
  * Finish 1 Medium 2
  * Continue with Medium 2 until finished
 
-**Time Spent**: 
+**Time Spent**: 6 hours
 
 **Thoughts:** My head is spinning with all of this code
 
 **Goals for Tomorrow:**
 * Continue working on Medium 2 problems
 * Schedule study session with 101 and Beginner group
+
+### R2D25: October 31, 2019 - Thursday
+
+**Today's Progress**
+ * Continue with 109 and study guide
+ * Continue with Medium 2 problems
+ * Work on Codewars level 7 problems
+
+**Time Spent**: 
+
+**Thoughts:** HAPPY HALLOWEEEENNN!!!!!!!!!!!!!! Today I will work on outlining what is needed with the study guide and have fun later on
+
+**Goals for Tomorrow:**
+* Schedule another study session
+* Work on Codewars
