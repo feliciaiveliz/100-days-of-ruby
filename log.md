@@ -1118,10 +1118,25 @@
  * Continue with Medium 2 problems
  * Work on Codewars level 7 problems
 
-**Time Spent**: 
+**Time Spent**: 1 hour
 
 **Thoughts:** HAPPY HALLOWEEEENNN!!!!!!!!!!!!!! Today I will work on outlining what is needed with the study guide and have fun later on
 
 **Goals for Tomorrow:**
 * Schedule another study session
 * Work on Codewars
+
+### R2D26: November 1, 2019 - Friday
+
+**Today's Progress**
+ * Study Guide
+ * Continue with Medium 2 problems
+ * Study Session at 4pm w/ Srdan
+
+**Time Spent**: 
+
+**Thoughts:** I'm nervous for the study session but at the same time I feel as though I will be okay. I am going to learn something new that will help me to ace the test the very first time. 
+
+**Goals for Tomorrow:**
+* Find a study partner
+* Work on Medium 2 exercises
