@@ -1140,3 +1140,18 @@
 **Goals for Tomorrow:**
 * Find a study partner
 * Work on Medium 2 exercises
+
+### R2D27: November 2, 2019 - Saturday
+
+**Today's Progress**
+ * Continue SG notes
+ * Continue with Medium 2 problems
+ * Practice Easy set of problems 
+
+**Time Spent**: 
+
+**Thoughts:** No thoughts this time
+
+**Goals for Tomorrow:**
+* Find a study partner
+* Work on Medium 2 exercises
