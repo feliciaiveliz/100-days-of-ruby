@@ -1155,3 +1155,21 @@
 **Goals for Tomorrow:**
 * Find a study partner
 * Work on Medium 2 exercises
+
+### R2D28: November 4, 2019 - Monday
+
+**Today's Progress**
+ * Continue SG notes
+ * Continue with Medium 2 problems
+ * Practice Easy set of problems 
+   - break down the problem line by line
+   - solve problem in at least two different ways
+
+**Time Spent**: 
+
+**Thoughts:** Several study sessions are lined up this week so I'm hoping to practice my speaking skills
+
+**Goals for Tomorrow:**
+* Start reviewing all things in study guide
+* Study session with Catherine @ 7am
+* Work on Easy problems
