@@ -1173,3 +1173,36 @@
 * Start reviewing all things in study guide
 * Study session with Catherine @ 7am
 * Work on Easy problems
+
+### R2D29: November 5, 2019 - Tuesday
+
+**Today's Progress**
+ * Continue SG notes
+ * Continue with Medium 2 problems
+ * Practice Easy set of problems 
+   - break down the problem line by line
+   - solve problem in at least two different ways
+
+**Time Spent**: 4 hours
+
+**Thoughts:** Several study sessions are lined up this week so I'm hoping to practice my speaking skills
+
+**Goals for Tomorrow:**
+* Start reviewing all things in study guide
+* Study session with Catherine @ 7am
+* Work on Easy problems
+
+### R2D30: November 6, 2019 - Wednesday
+
+**Today's Progress**
+ * Continue with Variable Scope notes
+ * 
+
+**Time Spent**: 
+
+**Thoughts:** Practicing talking about code in front of people is helping me to remember
+
+**Goals for Tomorrow:**
+* Continue with Study Guide
+* Read all articles from SG
+* Watch Ruby videos
