@@ -1206,3 +1206,19 @@
 * Continue with Study Guide
 * Read all articles from SG
 * Watch Ruby videos
+
+### R2D32: November 8, 2019 - Friday
+
+**Today's Progress**
+ * Continue with Variable Scope notes
+ * Watch 2nd Ruby Video
+ * Read Srdan's articles 1-4
+
+**Time Spent**: 
+
+**Thoughts:** Haven't been studying as much this week and I presume that it's due to me fear of failing the assessment or just not being ready, but the only way to make sure that doesn't happen is to study. I find that I"m able to concentrate better at night when I have done all the other things that I have wanted to do. 
+
+**Goals for Tomorrow:**
+* Continue with Study Guide
+* Maybe go out of town
+* Go to park to get some exercise in
