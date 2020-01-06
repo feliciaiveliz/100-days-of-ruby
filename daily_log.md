@@ -92,10 +92,10 @@
 ### Day 5: Jan. 5, 2020 - Sunday
 
 **Today's Progress**: 
-- 
+- Finished Ruby Basics problems
 - 
 
-**Time Spent**: 
+**Time Spent**: 3 hours
 - 
 
 **Thoughts**: It's still hard to keep track of my daily progress; have to work on that.
@@ -104,6 +104,30 @@
 **Goals for Today**: 
 - Start interview videos
 - Take notes
+
+
+**Goals for Tomorrow**: 
+- Continue with videos from study guide
+- Write notes for videos in markdown
+
+***
+
+### Day 6: Jan. 6, 2020 - Monday
+
+**Today's Progress**: 
+- 
+- 
+
+**Time Spent**:
+- 
+
+**Thoughts**: Feeling sick today; will do my best to watch videos.
+- 
+
+**Goals for Today**: 
+- Start interview videos
+- Take notes using Typora
+- Push all notes to github for safekeeping
 
 
 **Goals for Tomorrow**: 
