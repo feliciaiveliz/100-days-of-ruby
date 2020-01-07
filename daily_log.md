@@ -115,14 +115,13 @@
 ### Day 6: Jan. 6, 2020 - Monday
 
 **Today's Progress**: 
-- 
-- 
+- Watched Interview videos/took notes
+- Codewars for 30 minutes
 
-**Time Spent**:
-- 
+**Time Spent**: 3 hours
 
-**Thoughts**: Feeling sick today; will do my best to watch videos.
-- 
+**Thoughts**:
+- I don't remember what I did today, but it's probably due to the fact that I'm tired and sick. Need more rest.
 
 **Goals for Today**: 
 - Start interview videos
@@ -133,3 +132,26 @@
 **Goals for Tomorrow**: 
 - Continue with videos from study guide
 - Write notes for videos in markdown
+- Read all pedac articles
+***
+
+### Day 7: Jan. 7, 2020 - Tuesday
+
+**Today's Progress**: 
+- 
+- 
+
+**Time Spent**:
+
+**Thoughts**: 
+- Got some rest, am hoping to finish all pedac articles in 4 hours with notes. 
+
+**Goals for Today**: 
+- Finish all pedac articles
+- Finish all pedac notes and push to github
+- Start videos/notes
+
+
+**Goals for Tomorrow**: 
+- Continue with videos from study guide
+- Attend Capstone presentation at 11
