@@ -138,10 +138,9 @@
 ### Day 7: Jan. 7, 2020 - Tuesday
 
 **Today's Progress**: 
-- 
-- 
+- Finished 3 pedac articles with written notes
 
-**Time Spent**:
+**Time Spent**: 3 hours 45 minutes
 
 **Thoughts**: 
 - Got some rest, am hoping to finish all pedac articles in 4 hours with notes. 
@@ -155,3 +154,23 @@
 **Goals for Tomorrow**: 
 - Continue with videos from study guide
 - Attend Capstone presentation at 11
+
+### Day 8: Jan. 8, 2020 - Wednesday
+
+**Today's Progress**: 
+- 
+- 
+
+**Time Spent**:
+
+**Thoughts**: 
+- I will do my best to get through as many videos as I can today. 
+
+**Goals for Today**: 
+- Finish all pedac articles
+- Start videos/notes
+
+
+**Goals for Tomorrow**: 
+- Continue with videos from study guide
+- Start small problems
